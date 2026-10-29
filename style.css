@@ -15,13 +15,12 @@ p {
 }
 
 .logo-img {
-  height: 48px;
+  height: 60px;
 }
 .bg-item {
   background-image: url(assets/home-banner.png);
   background-size: cover;
   background-repeat: no-repeat;
-  margin-bottom: 100px;
   height: 100vh;
 }
 .nav-bar {
@@ -72,7 +71,7 @@ p {
 }
 .para-heads {
   color: #664428;
-  font-size: 66px;
+  font-size: 91px;
   font-weight: 600;
   font-style: italic;
   margin-bottom: 15px;
@@ -83,12 +82,12 @@ p {
   color: #4d4c4b;
   font-size: 16px;
   font-weight: 400;
-  margin-bottom: 94px;
+  margin-bottom: 60px;
   font-family: "Inter", sans-serif;
 }
 .para-item-ones {
   color: #4d4c4b;
-  font-size: 20px;
+  font-size: 16px;
   font-weight: 400;
   margin-bottom: 30px;
   font-family: "Inter", sans-serif;
@@ -120,13 +119,12 @@ p {
   padding: 11px 25px;
   background-color: #60391f;
   color: #fff;
-  border-radius: 22px;
+  border-radius: 30px;
   border: none;
-  margin-right: 5px;
 }
 
 .hero-header {
-  margin-bottom: 76px;
+  margin-bottom: 0px;
 }
 
 .img-section {
@@ -137,7 +135,8 @@ p {
 
 .hero-sec {
   padding-bottom: 100px;
-  background-color: #fdfaf5;
+  background-color: #FDFAF5;
+  padding-top: 100px;
 }
 
 .icon-logo-one {
@@ -150,7 +149,7 @@ p {
 }
 
 .second .hero-btn {
-  padding: 11px 25px;
+  padding: 10px 25px;
   font-size: 14px;
   border-radius: 22px;
   font-family: "Inter", sans-serif;
@@ -165,10 +164,7 @@ p {
   border: 1px #70675e solid;
   color: #030303;
   font-family: "Inter", sans-serif;
-}
-
-.title-item {
-  margin-bottom: 70px;
+  margin-left: 20px;
 }
 
 .bg-items {
@@ -176,7 +172,8 @@ p {
   border-radius: 24px;
   padding: 15px 15px 15px 15px;
   width: 237px;
-  margin-bottom: 100px;
+  border: 1px solid;
+  border-color: #be8a35;
 }
 .card-ones {
   background-color: #f0e0cd;
@@ -198,15 +195,15 @@ p {
   font-family: "Inter", sans-serif;
 }
 .bg-items-head {
-  font-size: 24px;
+  font-size: 23px;
   font-weight: 500;
-  margin-bottom: 20px;
   font-family: "Inter", sans-serif;
   color: #3e3933;
 }
 .second-sec {
   background-color: #fdfaf5;
-  margin-bottom: 100px;
+  padding-bottom: 100px;
+  padding-top: 100px;
 }
 
 .bg-items-para {
@@ -234,15 +231,15 @@ p {
 
 .third {
   background-color: #fff0d4;
-  padding-top: 48px;
-  padding-bottom: 40px;
+  padding-top: 100px;
+  padding-bottom: 100px;
 }
 
 .section-third {
   color: #413933;
   font-size: 54px;
   font-weight: 500;
-  margin-bottom: 71px;
+  margin-bottom: 55px;
   font-family: "Playfair Display", serif;
 }
 
@@ -251,7 +248,7 @@ p {
   height: 314px;
   border-radius: 24px;
   padding: 40px 40px 40px 40px;
-  margin-bottom: 50px;
+  margin-bottom: 40px;
 }
 
 .third-logo {
@@ -272,21 +269,18 @@ p {
 }
 
 .third-para {
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 400;
   color: #70675e;
   font-family: "Inter", sans-serif;
 }
 
-.third-card-items {
-  margin-bottom: 62px;
-  color: #105246;
-}
+
 
 .acchivement-number {
   font-weight: 500;
-  font-size: 64px;
-  margin-bottom: 15px;
+  font-size: 40px;
+  margin-bottom: 5px;
   color: #413933;
   font-family: "Inter", sans-serif;
 }
@@ -311,8 +305,8 @@ p {
 }
 
 .fourth-page {
-  padding-top: 120px;
-  padding-bottom: 120px;
+  padding-top: 100px;
+  padding-bottom: 100px;
   background-color: #FDFAF5;
 }
 
@@ -336,8 +330,8 @@ p {
   background-size: cover;
   background-position: center;
   height: 100vh;
- padding: 100px 0px 100px 0px;
-  margin-bottom: 30px;
+ padding: 100px 0px 0px 0px;
+  margin-bottom: 80px;
 }
 .pict-items {
   background-color: #f0e0cd;
@@ -358,7 +352,7 @@ p {
 .trans-layer {
   background: #fffaf3d1;
   padding: 15px;
-  border-radius: 5px;
+  border-radius: 24px;
   width: 25%;
 }
 .logo-icon {
@@ -372,13 +366,10 @@ p {
 }
 .fourth-para-itemses {
   font-size: 16px;
-  font-weight: 500;
-  margin-bottom: 25px;
+  font-weight: 400;
+  margin-bottom: 50px;
   color: #4d4c4b;
   font-family: "Inter", sans-serif;
-}
-.fourth-itemes {
-  margin-bottom: 50px;
 }
 
 .imgage-sizes {
@@ -390,7 +381,7 @@ p {
 }
 
 .fourth-headline {
-  margin-bottom: 15px;
+  margin-bottom: 10px;
   font-weight: 700;
   font-size: 22px;
   color: #363331;
@@ -398,8 +389,8 @@ p {
 }
 
 .forth-para-size {
-  font-size: 12px;
-  font-weight: 500;
+  font-size: 14px;
+  font-weight: 400;
   color: #70675e;
   font-family: "Poppins";
 }
@@ -517,8 +508,9 @@ p {
 .about-para {
   color: #29231d;
   font-size: 20px;
-  font-weight: 400;
+  font-weight: 500;
   margin-bottom: 5px;
+    font-family: "Inter", sans-serif;
   
 }
 
@@ -526,7 +518,7 @@ p {
   background-color: #fff;
   border: 1px #f6f3ec solid;
   padding: 24px;
-  height: 266px;
+ 
   border-radius: 24px;
   width: 314px;
 }
@@ -549,7 +541,7 @@ p {
 }
 
 .work-headers {
-  font-size: 32px;
+  font-size: 26px;
   font-weight: 500;
   color: #191514;
   margin-bottom: 10px;
@@ -558,13 +550,9 @@ p {
 
 .para-works {
   font-size: 14px;
-  font-weight: 500;
+  font-weight: 400;
   color: #70675e;
   font-family: "Poppins";
-}
-
-.btn-size-item {
-  margin-bottom: 60px;
 }
 
 .test-header {
@@ -582,12 +570,22 @@ p {
   font-style: italic;
   font-family: "Playfair Display", serif;
 }
+.about-parase{
+  font-size: 14px;
+    font-weight: 500;
+    color: #70675e;
+    font-family: "Poppins";
+    
+}
 .bg-itemess {
   background-color: #fff;
   border-radius: 24px;
-  padding: 29px 32px 20px 59px;
+  padding: 40px 40px 40px 40px;
   width: 90%;
-  margin-bottom: 40px;
+ 
+}
+.bottom-item{
+  margin-bottom: 60px;
 }
 .trans-color{
   background-color: #fff;
@@ -657,7 +655,7 @@ p {
 }
 
 .accordion {
-  margin-bottom: 188px;
+  margin-bottom: 150px;
 }
 
 .accordion-sec .accd-item {
@@ -689,7 +687,6 @@ p {
   font-weight: 600;
   color: #201711;
   font-family: "Playfair Display", serif;
-  margin-bottom: 10px;
 }
 
 .card-para {
@@ -701,7 +698,7 @@ p {
 }
 
 .accordion-sec .card-resources {
-  margin-bottom: 68px;
+  margin-bottom: 40px;
 }
 
 .img-card {
@@ -756,7 +753,7 @@ p {
 }
 .news-logo {
   height: 70px;
-  margin-bottom: 20px;
+  margin-bottom: 5px;
 }
 .bot-contet {
   padding: 80px 0px 64px 61px;
@@ -809,7 +806,7 @@ p {
   color: #d2c6ba;
   font-size: 12px;
   font-weight: 700;
-  margin-bottom: 20px;
+  margin-bottom: 120px;
 }
 .bot-pareas {
   color: #d6c2aa;
@@ -899,7 +896,7 @@ p {
 .li-sect {
   margin-bottom: 16px;
   color: #d2c6ba;
-  font-size: 11px;
+  font-size: 14px;
   font-weight: 400;
   font-family: "Inter", sans-serif;
 }
@@ -919,7 +916,7 @@ p {
 .news-letters {
   margin-bottom: 16px;
   color: #d2c6ba;
-  font-size: 11px;
+  font-size: 14px;
   font-weight: 400;
   font-family: "Inter", sans-serif;
 }
