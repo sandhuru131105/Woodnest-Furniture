@@ -18,7 +18,7 @@ p {
   height: 60px;
 }
 .bg-item {
-  background-image: url(/assets/home-banner\ 3.png);
+  background-image: url(/assets/home-banner.png);
   background-size: cover;
   background-repeat: no-repeat;
   height: 100vh;
@@ -45,6 +45,10 @@ p {
   font-weight: 500;
   font-family: "Inter", sans-serif;
   color: #000;
+  text-decoration: none;
+}
+.li-item:hover{
+  border-bottom: 4px solid #a7a29f;
 }
 
 .para-item {
@@ -580,7 +584,7 @@ p {
 }
 .trans-color {
   background-color: #fff;
-  padding: 15px;
+  padding: 4px;
   height: 30px;
   width: 30px;
   border-radius: 50%;
@@ -670,7 +674,7 @@ p {
   font-weight: 500;
   color: #292929;
   font-family: "Poppins";
-  border-radius: 24px;
+  border-radius: 24px !important;
   outline: none;
 }
 .accordion-sec .accds-item {
